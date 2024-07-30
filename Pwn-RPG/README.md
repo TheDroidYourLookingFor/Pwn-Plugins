@@ -111,7 +111,7 @@ Scripts for Pwnagotchi
     main.plugins.Pwn-RPG.age_label_padding = 10
     main.plugins.Pwn-RPG.age_x_coord = 5
     main.plugins.Pwn-RPG.age_y_coord = 60
-    main.plugins.Pwn-RPG.level_x_coord = 80
+    main.plugins.Pwn-RPG.level_x_coord = 81
     main.plugins.Pwn-RPG.level_y_coord = 99
     main.plugins.Pwn-RPG.level_label_padding = 4
     main.plugins.Pwn-RPG.str_x_coord = 2

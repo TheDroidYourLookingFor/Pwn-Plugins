@@ -1,10 +1,10 @@
 # 🖥  Pwnagotchi | Scripts
 
-Scripts for Pwnagotchi
+### Scripts for Pwnagotchi
 * [Pwn-RPG](https://github.com/TheDroidYourLookingFor/Pwn-Plugins/tree/main/Pwn-RPG)
   * This is the RPG system I am writing for the Pwnagotchi. Its a 6 Stat+Luck system and currently very much a work in progress.
 
-### Quickstart Guide
+## Quickstart Guide
 * Copy the script you like and SSH into your device.
 * sudo vi /usr/local/share/pwnagotchi/custom-plugins/Pwn-RPG.py  (Example)
 * Paste the contents of the current file into file by using Shift + Right Click
@@ -17,11 +17,11 @@ Scripts for Pwnagotchi
 ## Other Resources and Links
 * [Pwnagotchi 2.8.9 by jayofelony](https://github.com/jayofelony/pwnagotchi)
 
-### Documentation and Guides
+## Documentation and Guides
 * [Pwnagotchi Wiki](https://pwnagotchi.org/)
 * [jayofelony Wiki](https://github.com/jayofelony/pwnagotchi/wiki)
 
-### Pwnagotchi Communities
+## Pwnagotchi Communities
 * [Pwnagotchi Unofficial Discord](https://discord.gg/PgaU3Vp)
 
 ## My First Pwnagotchi Build Guide
@@ -38,7 +38,7 @@ Scripts for Pwnagotchi
 
  The first few of these plugins are based of others currently. I am just learning Python and others have provided a good base.
 
-### Contributing
+## Contributing
 
 Fork and submit Pull Requests for additions. Create Issues
 for questions, feedback, or help.
