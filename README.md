@@ -1,6 +1,6 @@
-# 🖥  Pwnagotchi | Scripts
+# 🖥  Pwnagotchi | Plugins
 
-### Scripts for Pwnagotchi
+### Plugins for Pwnagotchi
 * [Pwn-RPG](https://github.com/TheDroidYourLookingFor/Pwn-Plugins/tree/main/Pwn-RPG)
   * This is the RPG system I am writing for the Pwnagotchi. Its a 6 Stat+Luck system and currently very much a work in progress.
 
