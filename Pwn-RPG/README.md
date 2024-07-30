@@ -46,13 +46,13 @@ Scripts for Pwnagotchi
     main.plugins.Pwn-RPG.stat_box_luck_x_coord = 0
     main.plugins.Pwn-RPG.stat_box_luck_y_coord = 170
     main.plugins.Pwn-RPG.stat_box_luck_length = 20
-    main.plugins.Pwn-RPG.exp_label_padding = 5
+    main.plugins.Pwn-RPG.exp_label_padding = 15
     main.plugins.Pwn-RPG.exp_x_coord = 275
     main.plugins.Pwn-RPG.exp_y_coord = 242
     main.plugins.Pwn-RPG.age_label_padding = 22
     main.plugins.Pwn-RPG.age_x_coord = 13
     main.plugins.Pwn-RPG.age_y_coord = 111
-    main.plugins.Pwn-RPG.level_label_padding = 5
+    main.plugins.Pwn-RPG.level_label_padding = 15
     main.plugins.Pwn-RPG.level_x_coord = 410
     main.plugins.Pwn-RPG.level_y_coord = 242
     main.plugins.Pwn-RPG.str_x_coord = 3
@@ -69,9 +69,11 @@ Scripts for Pwnagotchi
     main.plugins.Pwn-RPG.cha_y_coord = 158
     main.plugins.Pwn-RPG.luck_x_coord = 55
     main.plugins.Pwn-RPG.luck_y_coord = 172
-    main.plugins.Pwn-RPG.asc_x_coord = 1
+    main.plugins.Pwn-RPG.assoc_label_padding = 10
+    main.plugins.Pwn-RPG.asc_x_coord = 3
     main.plugins.Pwn-RPG.asc_y_coord = 186
-    main.plugins.Pwn-RPG.deauth_x_coord = 70
+    main.plugins.Pwn-RPG.deauth_label_padding = 10
+    main.plugins.Pwn-RPG.deauth_x_coord = 90
     main.plugins.Pwn-RPG.deauth_y_coord = 186
 ```
 ### Waveshare 2.13inch E-Ink Display
@@ -128,8 +130,10 @@ Scripts for Pwnagotchi
     main.plugins.Pwn-RPG.cha_y_coord = 88
     main.plugins.Pwn-RPG.luck_x_coord = 380
     main.plugins.Pwn-RPG.luck_y_coord = 72
+    main.plugins.Pwn-RPG.assoc_label_padding = 1
     main.plugins.Pwn-RPG.asc_x_coord = 0
     main.plugins.Pwn-RPG.asc_y_coord = 49
+    main.plugins.Pwn-RPG.deauth_label_padding = 1
     main.plugins.Pwn-RPG.deauth_x_coord = 60
     main.plugins.Pwn-RPG.deauth_y_coord = 49
 ```

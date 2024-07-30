@@ -130,8 +130,10 @@ class RPG(plugins.Plugin):
             'cha_y_coord': 158,
             'luck_x_coord': 55,
             'luck_y_coord': 172,
+            'assoc_label_padding': 5,
             'asc_x_coord': 1,
             'asc_y_coord': 186,
+            'deauth_label_padding': 5,
             'deauth_x_coord': 70,
             'deauth_y_coord': 186
         }
@@ -452,11 +454,11 @@ class RPG(plugins.Plugin):
         ui.add_element('Associations', LabeledValue(color=BLACK, label='⚙A', value=0,
                                                     position=(int(self.options["asc_x_coord"]),
                                                               int(self.options["asc_y_coord"])),
-                                                    label_font=fonts.Bold, text_font=fonts.Medium, label_spacing=int(self.options["label_padding"])))
+                                                    label_font=fonts.Bold, text_font=fonts.Medium, label_spacing=int(self.options["assoc_label_padding"])))
         ui.add_element('Deauths Sent', LabeledValue(color=BLACK, label='✖D', value=0,
                                                     position=(int(self.options["deauth_x_coord"]),
                                                               int(self.options["deauth_y_coord"])),
-                                                    label_font=fonts.Bold, text_font=fonts.Medium, label_spacing=int(self.options["label_padding"])))
+                                                    label_font=fonts.Bold, text_font=fonts.Medium, label_spacing=int(self.options["deauth_label_padding"])))
         ui.add_element('Experience', LabeledValue(color=BLACK, label='Exp', value=0,
                                                   position=(int(self.options["exp_x_coord"]),
                                                             int(self.options["exp_y_coord"])),
